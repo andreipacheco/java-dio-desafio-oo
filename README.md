@@ -2,22 +2,6 @@
 
 Este projeto simula as funcionalidades básicas de um iPhone utilizando Programação Orientada a Objetos (POO) em Java. As funcionalidades implementadas incluem um Reprodutor Musical, um Aparelho Telefônico e um Navegador na Internet. 
 
-## 📂 Estrutura do Projeto
-
-iPhoneProject/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com/
-│ │ │ │ ├── iphone/
-│ │ │ │ │ ├── iPhone.java
-│ │ │ │ │ ├── interfaces/
-│ │ │ │ │ │ ├── ReprodutorMusical.java
-│ │ │ │ │ │ ├── AparelhoTelefonico.java
-│ │ │ │ │ │ ├── NavegadorInternet.java
-└── README.md
-
-
 ## 🛠️ Funcionalidades
 
 ### Reprodutor Musical
